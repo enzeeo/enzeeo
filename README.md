@@ -18,7 +18,7 @@ This profile contains projects I’ve built or collaborated on.
 - 🏋️ Gym regular 
 - 🧩 Likes building and automating things for fun (and sometimes usefulness)
 - 💼 Skipped season 1 of The Office
-- 👾 PC and mobile gamer
+- 👾 Minecraft, Stardew Valley, Brawl Stars
 
 <!--
 **enzeeo/enzeeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
